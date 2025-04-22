@@ -1,0 +1,5 @@
+- Use strings to get the strings in a binary
+- If it is suid bit you might find files that are not run with full path
+- example curl -I localhost
+- We can then create our own curl script with just /bin/sh
+- When we run the binary we get shell

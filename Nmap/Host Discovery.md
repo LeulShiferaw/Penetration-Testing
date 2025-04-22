@@ -1,0 +1,7 @@
+- Scan network range: `sudo nmap 10.129.2.0/24 -sn -oA tnet | grep for | cut -d” “ -f5`
+- Scan ip list: save list in hosts.lst, `sudo nmap -sn -oA tnet -iL hosts.lst | grep for | cut -d” “ -f5`
+- Scan multiple Ips: `sudo nmap -sn -oA tnet 10.129.2.18 10.129.2.19 10.129.2.20 | grep for | cut -d” “ -f5` or 10.129.2.18-20
+- “-PE” for ensuring ICMP is used
+- “—packet-trace” to trace the packets, but doesn’t work on localhost test.
+- “—reason” to see what made it determine whether it was on or not.
+- “—disable-arp-ping” to disable testing wtih arps.

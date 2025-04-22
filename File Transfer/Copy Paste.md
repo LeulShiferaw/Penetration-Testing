@@ -1,0 +1,2 @@
+- base64 encode then decode it. `base64 filename` then `echo base64encoded | base64 -d > filename`
+- You can use md5sum to make sure that you didn’t modify the file when copy pasting

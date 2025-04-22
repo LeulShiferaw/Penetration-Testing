@@ -1,0 +1,1 @@
+- Python HTTP server and wget or curl. Example: `python3 -m http.server port` then use `wget http://ip-address:port/file` or `curl http://ip_address:port/file -o filename`

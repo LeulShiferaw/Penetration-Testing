@@ -1,0 +1,1 @@
+- -oA (all formats), -oN (Normal), -oG (Grepable), -oX (XML format)
