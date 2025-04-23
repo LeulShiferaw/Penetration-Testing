@@ -11,10 +11,12 @@
             "id": "4e344f9c5febac15",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "General/Tools/Tools.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -36,11 +38,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -55,9 +54,7 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
+              }
             }
           },
           {
@@ -65,9 +62,7 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "state": {}
             }
           }
         ]
@@ -90,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "General/Tools/Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,9 +93,7 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks"
+              }
             }
           },
           {
@@ -108,11 +102,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "General/Tools/Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links"
+              }
             }
           },
           {
@@ -122,12 +115,8 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
+                "useHierarchy": true
+              }
             }
           },
           {
@@ -136,12 +125,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
+                "file": "General/Tools/Tools.md"
+              }
             }
           }
         ]
@@ -162,5 +147,11 @@
     }
   },
   "active": "4e344f9c5febac15",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "General/Memory.md",
+    "General/Tools/Tools.md",
+    "General/Tools",
+    "Pasted image 20250422233408.png",
+    "General/Cyber Kill Chain.md"
+  ]
 }
