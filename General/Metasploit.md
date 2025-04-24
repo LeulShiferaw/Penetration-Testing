@@ -1,0 +1,2 @@
+- stageless - entire payload is in binary (platform/payload_payloadtype)
+- staged - only small in binary rest is retrieved from server (platform/payload/payload_type)
