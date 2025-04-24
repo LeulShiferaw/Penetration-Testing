@@ -1,0 +1,6 @@
+- Runs on application layer
+- very old protocol
+- Usually runs on port 21
+- There is an anonymous user that can be used to access data
+- There are dangerous settings such as anon-enable and no-anon-pass
+- nmap scripts such as ftp-anon and ftp-syst can be used to enumerate the ftp server
