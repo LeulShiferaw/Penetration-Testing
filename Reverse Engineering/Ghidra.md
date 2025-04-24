@@ -1,0 +1,3 @@
+- Can be used for disassembly
+- Currently properly installed on the kali linux
+- Can't use bindiff though
