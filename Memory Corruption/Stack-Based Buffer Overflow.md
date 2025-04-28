@@ -1,0 +1,2 @@
+- popping esp doesn't change the value just the position of esp
+- We can use memory forensics to get back the value (I think)
