@@ -1,0 +1,6 @@
+1. Payment Card Industry Data Security Standard (PCI DSS): is an information security standard for organizations handling customer payment data for a number of major credit card companies.
+2. Center for Internet Security CIS Top 18: are a set of 18 recommended controls intended to increase an organization's security posture. These are not lows just recommended protocols.
+3. NIST Cybersecurity Framework: is a collection of standards and practices designed to help organizations understand and reduce cybersecurity risk.
+4. ATT3CK and D3FEND: Mitre Attack frameworks' TTPs.
+5. Cyber Kill Chain: Developed by Lockheed martin, it helps defenders identify and defend against cyber attacks. It has 7 stages: reconnaissance, weaponization, delivery, exploitation, installation, command and control, and actions on objectives.
+6. FedRAMP (Federal Risk and Authorization Management Program): is a US program that provides a standardized security framework for cloud services used by the federal government.

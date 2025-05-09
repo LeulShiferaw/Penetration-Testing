@@ -1,0 +1,6 @@
+1. Health Insurance Portability and Accountability Act (HIPAA): US law that regulates health care coverage and the privacy of patient health information. Must be Protected Health Information (PHI) standard complaint according to this act.
+2. Family Education Rights and Privacy Act (FERPA): US law regulating the privacy of learner's education records. Schools that fail to comply with these laws risk losing access to federal funding.
+3. Gramm-Leach-Bliely Act (GLBA): establishes a number of requirements that financial institutions must follow to protect consumer's financial information. 
+4. General Data Protection Regulation (GDPR): a law adopted by the European Union in 2016 that regulates data privacy and security. 
+5. Key disclosure laws: laws that compel the disclosure of cryptographic keys or passwords under specific conditions. 
+6. California Consumer Privacy Act (CCPA): is a Californian law granting residents of the state certain privacy rights concerning personal information. "right to know" - requires businesses to disclose to consumers, upon request, what personal information has been collected, used and sold about them and why. "right to opt out"

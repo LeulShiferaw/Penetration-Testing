@@ -1,0 +1,1 @@
+1. Passive Information Gathering: includes ways of gathering details about the host without interacting with it directly.

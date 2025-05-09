@@ -1,0 +1,3 @@
+1. Confidentiality: user's data mustn't be accessed. If we hack into someone's facebook account and look at their personal information such as texts that is a violation of this principle.
+2. Integrity: user's data mustn't be modified. If an attacker hacks into someone's facebook account and posts stuff on it that is a violation of this prinicple.
+3. Availability: website or service must be available at all times. Denial of service is a common attack on this principle.
