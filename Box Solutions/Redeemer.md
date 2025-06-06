@@ -1,0 +1,1 @@
+1. Google everything and follow along

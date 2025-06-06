@@ -1,2 +1,4 @@
-- client-server network share protocol
-- Samba is the linux version of SMB
+- Server Message Block
+- -L to list available shares: `smbclien -L \\\\ipaddress\\`
+- If anonymous is allowed we don't need password
+	- -N to login in as anonymous
